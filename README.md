@@ -6,5 +6,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 # Setup
 Run pnpm i to install the project's packages.
+
 Followed by pnpm dev to start the development server.
+
 Open http://localhost:3000 on your browser.
