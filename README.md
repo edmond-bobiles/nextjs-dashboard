@@ -13,4 +13,5 @@ Open http://localhost:3000 on your browser.
 
 ### Starter account
 Email: user@nextmail.com
+
 Password: 123456
