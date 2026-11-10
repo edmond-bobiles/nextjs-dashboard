@@ -10,3 +10,7 @@ Run pnpm i to install the project's packages.
 Followed by pnpm dev to start the development server.
 
 Open http://localhost:3000 on your browser.
+
+### Starter account
+Email: user@nextmail.com
+Password: 123456
